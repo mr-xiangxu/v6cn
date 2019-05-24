@@ -1,0 +1,186 @@
+7/21/2018, 2:16:43 AM 20180601-20180601
+MD[1]: 1, profit=-65
+MD[2]: 3, profit=-24
+MD[3]: 81, profit=1539
+MD[sum]: 85, profit=0
+
+7/21/2018, 2:16:50 AM 20180602-20180602
+MD[1]: 4, profit=-3
+MD[2]: 4, profit=1
+MD[3]: 75, profit=1425
+MD[sum]: 83, profit=0
+
+7/21/2018, 2:16:54 AM 20180603-20180603
+MD[1]: 1, profit=-56
+MD[2]: 3, profit=-15
+MD[3]: 72, profit=1368
+MD[sum]: 76, profit=0
+
+7/21/2018, 2:16:57 AM 20180604-20180604
+MD[1]: 5, profit=15
+MD[2]: 2, profit=-40
+MD[3]: 78, profit=1482
+MD[sum]: 85, profit=0
+
+7/21/2018, 2:17:02 AM 20180605-20180605
+MD[1]: 2, profit=-41
+MD[2]: 2, profit=-39
+MD[3]: 77, profit=1463
+MD[sum]: 81, profit=0
+
+7/21/2018, 2:17:06 AM 20180606-20180606
+MD[1]: 4, profit=5
+MD[2]: 4, profit=9
+MD[3]: 67, profit=1273
+MD[sum]: 75, profit=0
+
+7/21/2018, 2:17:10 AM 20180607-20180607
+MD[1]: 6, profit=28
+MD[2]: 5, profit=14
+MD[3]: 81, profit=1539
+MD[sum]: 92, profit=0
+
+7/21/2018, 2:17:14 AM 20180608-20180608
+MD[1]: 4, profit=-6
+MD[2]: 8, profit=78
+MD[3]: 74, profit=1406
+MD[sum]: 86, profit=0
+
+7/21/2018, 2:17:19 AM 20180609-20180609
+MD[1]: 4, profit=-3
+MD[2]: 5, profit=21
+MD[3]: 74, profit=1406
+MD[sum]: 83, profit=0
+
+7/21/2018, 2:17:24 AM 20180610-20180610
+MD[1]: 6, profit=24
+MD[2]: 9, profit=90
+MD[3]: 81, profit=1539
+MD[sum]: 96, profit=0
+
+7/21/2018, 2:17:29 AM 20180611-20180611
+MD[1]: 4, profit=4
+MD[2]: 2, profit=-32
+MD[3]: 70, profit=1330
+MD[sum]: 76, profit=0
+
+7/21/2018, 2:17:33 AM 20180612-20180612
+MD[1]: 3, profit=-17
+MD[2]: 2, profit=-34
+MD[3]: 72, profit=1368
+MD[sum]: 77, profit=0
+
+7/21/2018, 2:17:37 AM 20180613-20180613
+MD[1]: 5, profit=4
+MD[2]: 7, profit=49
+MD[3]: 84, profit=1596
+MD[sum]: 96, profit=0
+
+7/21/2018, 2:17:40 AM 20180614-20180614
+MD[1]: 7, profit=51
+MD[2]: 7, profit=58
+MD[3]: 75, profit=1425
+MD[sum]: 89, profit=0
+
+7/21/2018, 2:17:45 AM 20180615-20180615
+MD[1]: 10, profit=106
+MD[2]: 5, profit=16
+MD[3]: 79, profit=1501
+MD[sum]: 94, profit=0
+
+7/21/2018, 2:17:49 AM 20180616-20180616
+MD[1]: 3, profit=-23
+MD[2]: 5, profit=20
+MD[3]: 75, profit=1425
+MD[sum]: 83, profit=0
+
+7/21/2018, 2:17:53 AM 20180617-20180617
+MD[1]: 3, profit=-20
+MD[2]: 7, profit=63
+MD[3]: 70, profit=1330
+MD[sum]: 80, profit=0
+
+7/21/2018, 2:17:57 AM 20180618-20180618
+MD[1]: 4, profit=-11
+MD[2]: 6, profit=33
+MD[3]: 81, profit=1539
+MD[sum]: 91, profit=0
+
+7/21/2018, 2:18:02 AM 20180619-20180619
+MD[1]: 4, profit=-15
+MD[2]: 6, profit=29
+MD[3]: 85, profit=1615
+MD[sum]: 95, profit=0
+
+7/21/2018, 2:18:07 AM 20180620-20180620
+MD[1]: 4, profit=-7
+MD[2]: 7, profit=57
+MD[3]: 76, profit=1444
+MD[sum]: 87, profit=0
+
+7/21/2018, 2:18:11 AM 20180621-20180621
+MD[1]: 6, profit=15
+MD[2]: 5, profit=1
+MD[3]: 94, profit=1786
+MD[sum]: 105, profit=0
+
+7/21/2018, 2:18:14 AM 20180622-20180622
+MD[1]: 7, profit=44
+MD[2]: 8, profit=71
+MD[3]: 81, profit=1539
+MD[sum]: 96, profit=0
+
+7/21/2018, 2:18:18 AM 20180623-20180623
+MD[1]: 1, profit=-62
+MD[2]: 3, profit=-21
+MD[3]: 78, profit=1482
+MD[sum]: 82, profit=0
+
+7/21/2018, 2:18:21 AM 20180624-20180624
+MD[1]: 6, profit=39
+MD[2]: 3, profit=-15
+MD[3]: 72, profit=1368
+MD[sum]: 81, profit=0
+
+7/21/2018, 2:18:26 AM 20180625-20180625
+MD[1]: 0, profit=-83
+MD[2]: 4, profit=-3
+MD[3]: 79, profit=1501
+MD[sum]: 83, profit=0
+
+7/21/2018, 2:18:30 AM 20180626-20180626
+MD[1]: 5, profit=14
+MD[2]: 3, profit=-21
+MD[3]: 78, profit=1482
+MD[sum]: 86, profit=0
+
+7/21/2018, 2:18:34 AM 20180627-20180627
+MD[1]: 5, profit=7
+MD[2]: 2, profit=-48
+MD[3]: 86, profit=1634
+MD[sum]: 93, profit=0
+
+7/21/2018, 2:18:37 AM 20180628-20180628
+MD[1]: 2, profit=-59
+MD[2]: 11, profit=123
+MD[3]: 86, profit=1634
+MD[sum]: 99, profit=0
+
+7/21/2018, 2:18:42 AM 20180629-20180629
+MD[1]: 5, profit=12
+MD[2]: 4, profit=-3
+MD[3]: 79, profit=1501
+MD[sum]: 88, profit=0
+
+7/21/2018, 2:18:47 AM 20180630-20180630
+MD[1]: 9, profit=80
+MD[2]: 4, profit=-11
+MD[3]: 87, profit=1653
+MD[sum]: 100, profit=0
+
+7/21/2018, 2:21:34 AM 20180601-20180630
+MD[1]: 130, profit=-23
+MD[2]: 146, profit=427
+MD[3]: 2347, profit=44593
+MD[sum]: 2623, profit=0
+
